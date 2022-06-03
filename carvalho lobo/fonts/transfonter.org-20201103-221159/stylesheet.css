@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'English111 Vivace BT';
+    src: url('English111VivaceBT-Regular.woff2') format('woff2'),
+        url('English111VivaceBT-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
